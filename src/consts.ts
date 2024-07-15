@@ -45,7 +45,7 @@ export const FooterLinks = [
 export const SocialLinks = [
   { href: "/rss.xml", icon: "tabler:rss", label: "RSS" },
   {
-    href: "https://twitter.com/astrodotbuild",
+    href: "https://twitter.com/papplegate",
     icon: "tabler:brand-twitter",
     label: "Twitter",
   },
