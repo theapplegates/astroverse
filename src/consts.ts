@@ -4,7 +4,7 @@
 // Base Page Metadata, src/layouts/BaseLayout.astro
 export const BRAND_NAME = "AstroVerse";
 export const SITE_TITLE = "AstroVerse";
-export const SITE_DESCRIPTION = "An Astro Theme for Visual Storytelling";
+export const SITE_DESCRIPTION = "Living Life In The Astroverse";
 
 // Tags Page Metadata, src/pages/tags/index.astro
 export const Tags_TITLE = "AstroVerse - All Tags";
@@ -50,7 +50,7 @@ export const SocialLinks = [
     label: "Twitter",
   },
   {
-    href: "https://github.com/isooosi",
+    href: "https://github.com/theapplegates",
     icon: "tabler:brand-github",
     label: "GitHub",
   },
